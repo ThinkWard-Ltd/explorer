@@ -9,15 +9,15 @@ $body-bg: #161b19 !default;
 
 $black: #232323;
 $white: #eee !default;
-$gray-600: #86b8b6;
+$gray-600: #c0c0c0;
 $gray-600-dark: #343a37 !default;
 $gray-700-dark: #282d2b !default;
 $gray-800-dark: #1e2423 !default;
 $black-dark: #141816 !default;
 
-$primary: #1dd79b !default;
-$success: #26e97e !default;
-$warning: #fa62fc !default;
+$primary: #777696 !default;
+$success: #c0c0c0 !default;
+$warning: #666699 !default;
 $card-border-color: $gray-700-dark !default;
 $card-outline-color: $black-dark !default;
 
@@ -30,3 +30,4 @@ $theme-colors: (
   "gray": $gray-600,
   "gray-dark": $gray-800-dark,
 );
+
