@@ -1,8 +1,8 @@
 <p align="center">
-    <img alt="FYFY" src="https://imgur.com/SEvHtP3" width="250" />
+    <img alt="FyFy" src="https://i.imgur.com/SEvHtP3.jpg" width="250" />
 </p>
 
-# Solana Explorer
+# FyFy Explorer
 
 ## Development
 
