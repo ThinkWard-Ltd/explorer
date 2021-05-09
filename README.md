@@ -1,10 +1,9 @@
 #
 <p align="center">
+  
 <img alt="FyFy" src="https://i.imgur.com/KTmuIqI.png" width="500" />
 
 </p>
-
-# FyFy Explorer
 
 ## Development
 
